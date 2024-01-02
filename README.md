@@ -1,0 +1,1 @@
+usage: cargo run -- {path}
